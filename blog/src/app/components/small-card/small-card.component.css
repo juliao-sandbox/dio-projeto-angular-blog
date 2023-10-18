@@ -4,8 +4,8 @@
 }
 
 .container-small-card-content {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 180px 500px;
 }
 
 .container-small-card-separator {
@@ -13,8 +13,9 @@
 }
 
 .small-card-picture > img {
-  width: 200px;
-  min-width: 200px;
+  width: 90%;
+  min-height: 100px;
+  max-height: 120px;
   margin-right: 20px;
 }
 
