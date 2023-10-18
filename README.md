@@ -1,7 +1,6 @@
 # DIO - Projeto: Criando um Blog com Angular
 
-Projeto de um blog utilizando Angular v14.
-
+Projeto de um blog com componentes dinâmicos utilizando Angular v14.
 
 ---
 
